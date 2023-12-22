@@ -52,11 +52,11 @@ Apply scaling to 'Age,' 'Annual Income (k$),' and 'Spending Score (1-100)' using
 
 Apply the K-means algorithm for 2D clustering based on age and spending score, 2D clustering based on annual income and spending score, and 3D clustering on age, annual income, and spending score.
 
-### 6.1 2D Model Steps
+### 6.1 2D Model 
 
 Create a variable `x` representing the features for 2D clustering. Utilize the Elbow Method to determine the optimal number of clusters (K). Visualize the resulting clusters through scatter plots.
 
-### 6.2 3D Model Steps
+### 6.2 3D Model 
 
 Generate a 3D scatter plot depicting clusters formed by the K-means algorithm on age, annual income, and spending score. Evaluate clustering quality using inertia and silhouette_score.
 
