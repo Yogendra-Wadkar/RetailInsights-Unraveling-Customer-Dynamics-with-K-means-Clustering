@@ -18,19 +18,19 @@ Data is loaded into a Pandas DataFrame using the `pd.read_csv` function. The dat
 
 Explore the dataset using key functions:
 
-### 4.1 Checking Columns (`df.columns`)
+### 4.1 Checking Columns
 
 This function provides an overview of the columns present in the dataset, aiding in understanding the variables available for analysis.
 
-### 4.2 Dataset Information (`df.info()`)
+### 4.2 Dataset Information  
 
 The `df.info()` function offers details about the data types, non-null counts, and memory usage, providing insights into the dataset's structure.
 
-### 4.3 Descriptive Statistics (`df.describe()`)
+### 4.3 Descriptive Statistics  
 
 Utilize `df.describe()` to generate descriptive statistics, including measures of central tendency, dispersion, and shape of the distribution.
 
-### 4.4 Missing Values Check (`df.isnull().sum()`)
+### 4.4 Missing Values Check  
 
 Identify and quantify missing values in the dataset using `df.isnull().sum()`. This step is crucial for handling or imputing missing data effectively.
 
