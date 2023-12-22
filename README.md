@@ -28,7 +28,7 @@ Check out the 3D Scatter Plot for a visually stunning representation of clustere
 
 📁 **Data:** Contains the dataset used for analysis.
 
-📁 **Jupyter Notebooks:** This directory houses Jupyter notebooks detailing each phase of the project.
+📁 **Mall Customers Project Jupyter Notebooks:** This directory houses Jupyter notebooks detailing each phase of the project.
 
 📁 **Project Description:** Brief overview of the project's purpose and goals.
 
