@@ -1,4 +1,4 @@
-# Mall Customers Clustering Project Using K-means Clustering
+# RetailInsights: Unraveling Customer Dynamics with K-means Clustering
 
 ![clustering image](https://static.javatpoint.com/tutorial/machine-learning/images/k-means-clustering-algorithm-in-machine-learning.png)
 
