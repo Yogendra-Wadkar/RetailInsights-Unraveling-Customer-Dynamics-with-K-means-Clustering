@@ -53,6 +53,9 @@ Apply scaling to 'Age,' 'Annual Income (k$),' and 'Spending Score (1-100)' using
 Apply the K-means algorithm for 2D clustering based on age and spending score, 2D clustering based on annual income and spending score, and 3D clustering on age, annual income, and spending score.
 
 ### 6.1 2D Model 
+Elbow-Method using WCSS: This is based on principle that while clustering performance as measured by WCSS increases (i.e. WCSS decreases) 
+with increase in k, rate of increase is usually decreasing. So performance improvement for increasing number of cluster 
+from, say, 3 to 4 is higher than that for increasing from 4 to 5. 
 
 Create a variable `x` representing the features for 2D clustering. Utilize the Elbow Method to determine the optimal number of clusters (K). Visualize the resulting clusters through scatter plots.
 
